@@ -4,6 +4,9 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 **Note:** if you want to add yours, just open an issue with the URL, or send a pull request.
 
+**Want to serve auto-updates?** 
+Add the [Sketchpacks Relay](https://github.com/integration/sketchpacks-relay) integration to your plugins' github repo to serve _auto-updates_ to your users.
+
 - [Ace Jump](https://github.com/turbobabr/sketch-ace-jump), by Andrey Shakhmin: Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 - [AEFlowchart](https://github.com/tadija/aeflowchart), by Marko Tadić: Flowchart diagram plugin for Bohemian Coding Sketch app.
 - [AEIconizer](https://github.com/tadija/aeiconizer), by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.
